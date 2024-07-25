@@ -1,0 +1,7 @@
+user:
+  nickname: 우기
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
